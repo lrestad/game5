@@ -1,18 +1,17 @@
-# (TODO: your game's title)
+# Croquet
 
-Author: (TODO: your name)
+Author: Leah Restad
 
-Design: (TODO: In two sentences or fewer, describe what is new and interesting about your game.)
+Design: My goal was to design a croquet game where you hit the ball and flowwit it throught the course, seeing how few hits you can use. I only had time to get the WalkMesh working, then I fell asleep.
 
 Screen Shot:
 
 ![Screen Shot](screenshot.png)
 
 How To Play:
+Walk.
 
-(TODO: describe the controls and (if needed) goals/strategy.)
-
-Sources: (TODO: list a source URL for any assets you did not create yourself. Make sure you have a license for the asset.)
+Sources: Listed in WalkMesh.cpp
 
 This game was built with [NEST](NEST.md).
 
